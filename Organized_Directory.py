@@ -20,7 +20,7 @@ except Exception:
 
 def _main():
     print("Hello")
-    # Commmandline Args
+    # Commmandline Arg
     parser = ArgumentParser()
     parser.add_argument('-d', '--dir', help='Location of Directory to clean')
     parser.add_argument(

@@ -12,7 +12,7 @@ try:
 
 except Exception:
     print(
-        "can't import required Modules,"
+        "can't import  required Modules,"
         "probably because your python is too old"
         " or some Files are missing")
     exit(1)
